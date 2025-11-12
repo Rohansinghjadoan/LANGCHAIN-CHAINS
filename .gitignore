@@ -1,0 +1,36 @@
+# Ignore virtual environment
+myenv/
+venv/
+.env
+*.env
+
+# Ignore compiled and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore model/data weights
+*.pt
+*.bin
+*.h5
+*.pkl
+*.zip
+*.tar
+*.gz
+*.npy
+*.npz
+
+# Ignore large build and library files
+*.so
+*.dll
+*.dylib
+
+# Ignore any other big folders
+data/
+models/
+datasets/
+checkpoints/

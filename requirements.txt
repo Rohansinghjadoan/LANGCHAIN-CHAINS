@@ -1,0 +1,1 @@
+pip install "langchain==1.0.5" "langchain-core==1.0.4" "langchain-community==0.4.1" "langchain-huggingface==1.0.1" grandalf python-dotenv transformers
